@@ -1,2 +1,17 @@
 # Flip-Emoji-Match-Game
-Flip &amp; Emoji Match Game A fun memory game where players match pairs of hidden emojis by flipping blocks. Built with HTML, CSS, and JavaScript, the game features different grid sizes for various difficulty levels and tracks time and moves.
+
+## <b> [Click here to Play the GAME!!](https://vectorstatic.github.io/Memory-Matching-Game/)
+
+
+This project is made using HTML,CSS &amp; JavaScript.
+
+It's a simple online memory matching game, which contains various levels.
+<br>
+Here are some snapshots from game.
+
+<img src="Images/snapshot1.PNG" width=95% alt="snapshots">
+<img src="Images/snapshot2.PNG" width=95% alt="snapshots">
+<img src="Images/snapshot3.PNG" width=95% alt="snapshots">
+<img src="Images/snapshot4.PNG" width=95% alt="snapshots">
+
+<br><br>
